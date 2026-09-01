@@ -127,7 +127,7 @@ function Footer() {
                     Our Office
                   </p>
                   <p className="mt-1 text-[13px] font-semibold text-white/90 leading-relaxed">
-                    Udaya Vensar Apartments, Rd Number 1, Hanuman Nagar,<br className="hidden sm:block" />  Kothaguda, Hyderabad, Telangana India 500084
+                    303, 3rd Floor, Udaya Vensar Apartments, Rd Number 1, Hanuman Nagar,<br className="hidden sm:block" />  Kothaguda, Kondapur, Hyderabad, Telangana 500084
                   </p>
                 </div>
               </div>

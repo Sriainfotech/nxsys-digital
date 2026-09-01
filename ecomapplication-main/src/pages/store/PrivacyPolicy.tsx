@@ -201,7 +201,7 @@ function PrivacyPolicy() {
               <h2 className="text-2xl font-bold text-slate-900">XVI. Contact Us</h2>
               <div className="space-y-2">
                 <p><strong>Sria Infotech Pvt Ltd</strong></p>
-                <p>Udaya Vensar Apartments, Rd Number 1, Hanuman Nagar, Kothaguda, Hyderabad, Telangana 500084</p>
+                <p>303, 3rd Floor, Udaya Vensar Apartments, Rd Number 1, Hanuman Nagar, Kothaguda, Kondapur, Hyderabad, Telangana 500084</p>
                 <p>For any queries, contact us via above details.</p>
               </div>
             </section>

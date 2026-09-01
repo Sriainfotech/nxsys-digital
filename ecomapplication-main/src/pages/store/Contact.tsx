@@ -69,7 +69,7 @@ function Contact() {
               <div className="min-w-0 space-y-1.5">
                 <p className="text-[10px] font-black uppercase tracking-[0.3em] text-slate-400">Our Office</p>
                 <p className="text-[15px] font-semibold leading-7 text-slate-800">
-                  Udaya Vensar Apartments, Rd Number 1, Hanuman Nagar, Kothaguda, Hyderabad, Telangana 500084
+                  303, 3rd Floor, Udaya Vensar Apartments, Rd Number 1, Hanuman Nagar, Kothaguda, Kondapur, Hyderabad, Telangana 500084
                 </p>
                 <a
                   href="https://maps.app.goo.gl/b9sUaVidUYvMWxkK9?g_st=iw"
